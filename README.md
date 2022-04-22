@@ -1,1 +1,1 @@
-# VirtuaShop
+# VirtualShop
