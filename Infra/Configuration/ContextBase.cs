@@ -26,7 +26,7 @@ namespace Infra.Configuration
 
         private string GetStringConnectionConfig() 
         {
-            string strCon = "Data Source=DESKTOP-CE6K1CE\\LOJA_VIRTUAL; Initial Catalog = Loja_Virtual; Integrated Security = False; User ID = sa; Password = 12345678; Connect Timeout = 15; Encrypt = False; TrustServerCertificate = False; ";
+            string strCon = "Data Source=DESKTOP-QLCTD5O\\LOJA_VIRTUAL; Initial Catalog = Loja_Virtual; Integrated Security = False; User ID = sa; Password = 12345678; Connect Timeout = 15; Encrypt = False; TrustServerCertificate = False; ";
             return strCon;
         }
 
